@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Weather Analytics Dashboard
 
 ## Quick start
@@ -19,3 +20,6 @@
 - This project uses WeatherAPI and optional Firebase (Google sign-in).
 - If you get tailwind/postcss errors on Windows, run `npm install` then restart `npm run dev`.
 
+=======
+# WEATHER-ANALYTICS-DASHBOAED
+>>>>>>> 847b5aef00a696799110a70679db0508255e2eb9
